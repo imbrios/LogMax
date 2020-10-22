@@ -33,7 +33,6 @@ For more details, please visit [LogMax Product Page](https://www.imbrios.com/pro
 
 - Demo software source code
 - Device tree
-- Pre-complied Operating System Binary for Colibri IMX7 (Dual). Use [Tezi Installer](https://developer.toradex.com/software/toradex-easy-installer) for flashing the Operating System Image
 
 ### Software Development Kit (SDK):
  - [Click here to download the SDK](https://drive.google.com/file/d/1Q9YwkQoNV5qbP7NHM9zxNKZyfxQHOjF8/view?usp=sharing) - File size ~700MB
