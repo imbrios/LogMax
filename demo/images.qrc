@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/icon-close-96.png</file>
+        <file>images/icons-close-48.png</file>
+        <file>images/icons-save-close-40.png</file>
+        <file>images/icons-forward-arrow-40.png</file>
+        <file>images/icons-led-36.png</file>
+        <file>images/icons-led-off-36.png</file>
+    </qresource>
+</RCC>
